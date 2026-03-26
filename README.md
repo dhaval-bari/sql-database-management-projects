@@ -1,6 +1,3 @@
-# sql-database-management-projects
-A collection of 10 real-world SQL database projects covering schema design, data manipulation, and complex queries using MySQL.
-
 # SQL Database Management Projects
 
 This repository contains 10 structured SQL mini-projects based on real-world systems. Each project demonstrates database design, data manipulation, and complex query execution using MySQL.
